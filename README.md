@@ -50,9 +50,3 @@ Adjust pricing strategies for better margins
 Align operations with peak demand periods
 
 
-
-
-
-🚀 Conclusion
-
-This project demonstrates how Python can be used to analyze business data, extract insights, and support strategic decision-making in a real-world scenario.
