@@ -32,6 +32,8 @@ Aggregation and grouping of sales metrics
 
 Visualization of trends and patterns
 
+![image](https://github.com/faridah-portfolio/Faridah_The_Analyst/blob/06de56fc57a26d14a96791b200a8f0329daf82ac/FARIDA_RESTURANT_ANALYSIS%20and%204%20more%20pages%20-%20Profile%201%20-%20Microsoft%E2%80%8B%20Edge%2022_04_2026%201_04_51%20pm.png)
+
 ### Key Insights
 A small number of menu items drive most of the revenue,
 Sales show clear peak periods during certain days/times,
